@@ -2,11 +2,11 @@
 Autonomous concierge system built using vast API's and integrations bridging human's with AI travel.
 
 
-#Overview
+# Overview
 
 The Autonomous Concierge is an AI-powered service that seamlessly integrates various components of a traveler’s journey, including flights, e-hailing rides, hotel bookings, and additional travel services. The application aims to provide a frictionless travel experience by using automation, real-time data synchronization, and intelligent decision-making.
 
-#Key Features
+# Key Features
 
 1. Flight Management
 
@@ -64,7 +64,7 @@ Data encryption and GDPR compliance.
 
 Fraud detection mechanisms for bookings and transactions.
 
-#Tech Stack
+# Tech Stack
 
 Frontend: React.js, Next.js, Tailwind CSS
 
@@ -78,7 +78,7 @@ AI & Automation: OpenAI, Google Dialogflow, AWS Lambda
 
 DevOps: Docker, Kubernetes, CI/CD pipelines
 
-#System Architecture
+# System Architecture
 
 The system follows a microservices-based architecture:
 
@@ -92,7 +92,7 @@ AI Concierge Service: Processes queries, provides recommendations.
 
 Data Sync Module: Ensures all services stay updated with real-time information.
 
-#Deployment
+# Deployment
 
 The application can be deployed using:
 
@@ -102,7 +102,7 @@ Containerization: Docker and Kubernetes for scalability
 
 CI/CD Pipelines: GitHub Actions / Jenkins for automated deployments
 
-#Future Enhancements
+# Future Enhancements
 
 Blockchain-based secure travel identity verification.
 
