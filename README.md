@@ -10,13 +10,13 @@ The Autonomous Concierge is an AI-powered service that seamlessly integrates var
 
 1. Flight Management
 
-Integration with major airline APIs (Amadeus, Sabre, Skyscanner, etc.).
+  Integration with major airline APIs (Amadeus, Sabre, Skyscanner, etc.).
 
-Real-time flight tracking and booking.
+  Real-time flight tracking and booking.
 
-Personalized flight recommendations based on user preferences.
+  Personalized flight recommendations based on user preferences.
 
-Automatic rebooking and delay handling.
+  Automatic rebooking and delay handling.
 
 2. E-Hailer Ride Coordination
 
