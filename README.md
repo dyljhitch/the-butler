@@ -1,4 +1,4 @@
-# the-butler
+# The Butler - Autonomous Concierge Application (IOS, ANDROID)
 Autonomous concierge system built using vast API's and integrations bridging human's with AI travel.
 
 
