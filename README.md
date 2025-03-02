@@ -49,7 +49,7 @@ Frontend: React.js, Next.js, Tailwind CSS
 Backend: Node.js (Express.js) / Python (FastAPI/Django)
 Database: PostgreSQL / MongoDB
 
-APIs & Integrations: Amadeus, Skyscanner, Uber, Lyft, Booking.com
+APIs & Integrations: Amadeus, Skyscanner, Uber, Lyft, Booking.com, Google (Various API's), Quatar Airways, British Airways (More to be aquired soon)
 AI & Automation: OpenAI, Google Dialogflow, AWS Lambda
 
 DevOps: Docker, Kubernetes, CI/CD pipelines
